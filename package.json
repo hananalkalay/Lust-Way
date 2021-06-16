@@ -15,9 +15,11 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@material-ui/styles": "^4.11.4",
     "gatsby": "^3.6.2",
     "gatsby-plugin-gatsby-cloud": "^2.7.1",
     "gatsby-plugin-image": "^1.7.1",
+    "gatsby-plugin-material-ui": "^3.0.1",
     "gatsby-plugin-sharp": "^3.7.1",
     "gatsby-source-filesystem": "^3.7.1",
     "gatsby-transformer-sharp": "^3.7.1",

@@ -7,6 +7,7 @@ module.exports = {
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
+    "gatsby-plugin-material-ui",
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -15,5 +16,6 @@ module.exports = {
       },
       __key: "images",
     },
+    `gatsby-plugin-styled-components`,
   ],
 };
